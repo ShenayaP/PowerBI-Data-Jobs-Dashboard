@@ -5,11 +5,12 @@
 
 ![Dashboard Page 2](/Dashboard%20Page%202.png)
 
+![Relational Database Diagram](Relational%20Database%20Diagram.png)
+
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZmIzNDM3MTQtY2I4ZC00NDliLWE3OTgtMzllMGIxNjU3NGFkIiwidCI6ImU5ODI3YzRkLWU5NDEtNDM1OC05ZmY1LTZhNDI1YTBmZDQzMiJ9">
 
   <img src="../Resources/images/Project1_Dashboard_Overview.gif" alt="Interactive Data Jobs Dashboard">
 </a>
-
 
 ## Introduction
 
